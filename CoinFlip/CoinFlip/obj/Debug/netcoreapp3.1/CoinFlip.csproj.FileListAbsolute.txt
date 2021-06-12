@@ -1,0 +1,16 @@
+C:\Users\Huy Hoang\source\repos\CoinFlip\CoinFlip\bin\Debug\netcoreapp3.1\CoinFlip.exe
+C:\Users\Huy Hoang\source\repos\CoinFlip\CoinFlip\bin\Debug\netcoreapp3.1\CoinFlip.deps.json
+C:\Users\Huy Hoang\source\repos\CoinFlip\CoinFlip\bin\Debug\netcoreapp3.1\CoinFlip.runtimeconfig.json
+C:\Users\Huy Hoang\source\repos\CoinFlip\CoinFlip\bin\Debug\netcoreapp3.1\CoinFlip.runtimeconfig.dev.json
+C:\Users\Huy Hoang\source\repos\CoinFlip\CoinFlip\bin\Debug\netcoreapp3.1\CoinFlip.dll
+C:\Users\Huy Hoang\source\repos\CoinFlip\CoinFlip\bin\Debug\netcoreapp3.1\CoinFlip.pdb
+C:\Users\Huy Hoang\source\repos\CoinFlip\CoinFlip\obj\Debug\netcoreapp3.1\CoinFlip.csproj.AssemblyReference.cache
+C:\Users\Huy Hoang\source\repos\CoinFlip\CoinFlip\obj\Debug\netcoreapp3.1\CoinFlip.Form1.resources
+C:\Users\Huy Hoang\source\repos\CoinFlip\CoinFlip\obj\Debug\netcoreapp3.1\CoinFlip.Properties.Resources.resources
+C:\Users\Huy Hoang\source\repos\CoinFlip\CoinFlip\obj\Debug\netcoreapp3.1\CoinFlip.csproj.GenerateResource.cache
+C:\Users\Huy Hoang\source\repos\CoinFlip\CoinFlip\obj\Debug\netcoreapp3.1\CoinFlip.AssemblyInfoInputs.cache
+C:\Users\Huy Hoang\source\repos\CoinFlip\CoinFlip\obj\Debug\netcoreapp3.1\CoinFlip.AssemblyInfo.cs
+C:\Users\Huy Hoang\source\repos\CoinFlip\CoinFlip\obj\Debug\netcoreapp3.1\CoinFlip.csproj.CoreCompileInputs.cache
+C:\Users\Huy Hoang\source\repos\CoinFlip\CoinFlip\obj\Debug\netcoreapp3.1\CoinFlip.dll
+C:\Users\Huy Hoang\source\repos\CoinFlip\CoinFlip\obj\Debug\netcoreapp3.1\CoinFlip.pdb
+C:\Users\Huy Hoang\source\repos\CoinFlip\CoinFlip\obj\Debug\netcoreapp3.1\CoinFlip.genruntimeconfig.cache
